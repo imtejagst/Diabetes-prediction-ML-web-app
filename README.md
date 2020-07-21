@@ -14,6 +14,6 @@ From Anaconda prompt run the below command
 
 $streamlit run "mention the path of the python file"
 
-![Diabetes detection ML web app demo](https://giphy.com/gifs/iiEa4jyY5aCXinwwuM)
+![Diabetes detection ML web app demo](https://media.giphy.com/media/iiEa4jyY5aCXinwwuM/giphy.gif)
 
 
