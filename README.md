@@ -6,5 +6,10 @@ Data is collected from https://www.kaggle.com/uciml/pima-indians-diabetes-databa
 
 The frontend of the project is implemented using streamlit https://www.streamlit.io/
 
+To run the webapp
+
+Install streamlit https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html
+From Anaconda prompt run the below command
+$streamlit run "mention the path of the python file"
 
 
