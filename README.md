@@ -1,1 +1,1 @@
-# diabetes-prediction-Machine-learning-web-app-
+# diabetes-prediction-Machine-learning-web-app
