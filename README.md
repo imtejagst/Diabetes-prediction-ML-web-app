@@ -11,7 +11,7 @@ To run the webapp
 Install streamlit https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html
 
 ## APPLICATION DEMO
-![**Diabetes detection ML web app demo]()
+![](https://github.com/imtejagst/diabetes-prediction-Machine-learning-web-app-/blob/master/webapp%20%C2%B7%20Streamlit.gif)
 
 ### Getting Started
 * Clone the repo using the command: *git clone https://github.com/imtejagst/diabetes-prediction-Machine-learning-web-app-.git*
