@@ -1,6 +1,6 @@
 # diabetes prediction Machine learning web app
 
-This web app is designed for doctors, medical profesionals and even for a common man who can understand the data. The app predicts the accuracy of occurance of diabetes in a person.This is a fun project and more experimenting with streamlit library. i will try to add refinements in the future.
+This web app is designed for doctors, medical profesionals and even for a common man who can understand the data. The app predicts the accuracy of occurance of diabetes in a person.This is a fun project and more of experimenting with streamlit library. i will try to add refinements in the future.
 
 * Data is collected from https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
